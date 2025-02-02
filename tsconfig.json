@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",          // Ensure ES2015 or later is set
+    "lib": ["ES2015", "DOM"],    // Add ES2015 to support Symbol
+    "module": "commonjs",        // (optional) depends on your project setup
+    "strict": true               // Optional: for stricter type-checking
+  }
+}
